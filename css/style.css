@@ -357,7 +357,7 @@ header.show-bg {
 /* HERO */
 .hero {
   min-height: 90vh;
-  background-image: url(./images/bg-pattern-intro.svg),
+  background-image: url(./../images/bg-pattern-intro.svg),
     linear-gradient(to right, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
   background-repeat: no-repeat;
   /* background-size: width , height  */
@@ -438,7 +438,7 @@ header.show-bg {
 /* INFRASTRUCTURE */
 .infrastructure {
   margin-top: 10rem;
-  background-image: url(./images/bg-pattern-circles.svg),
+  background-image: url(./../images/bg-pattern-circles.svg),
     linear-gradient(hsl(237, 17%, 21%), hsl(237, 23%, 32%));
   background-repeat: no-repeat;
   background-size: 110rem, 100%;
